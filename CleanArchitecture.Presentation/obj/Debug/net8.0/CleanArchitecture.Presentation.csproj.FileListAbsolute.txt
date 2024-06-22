@@ -1,0 +1,17 @@
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Presentation.deps.json
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Presentation.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Presentation.pdb
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.csproj.AssemblyReference.cache
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.AssemblyInfoInputs.cache
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.AssemblyInfo.cs
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.csproj.CoreCompileInputs.cache
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\refint\CleanArchitecture.Presentation.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.pdb
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\ref\CleanArchitecture.Presentation.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Application.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArc.3F3C2AE5.Up2Date
