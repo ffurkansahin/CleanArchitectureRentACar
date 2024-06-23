@@ -17,3 +17,4 @@ D:\.NetProjects\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net8.0
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net8.0\ref\CleanArchitecture.Persistence.dll
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net8.0\CleanArchitecture.Application.dll
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net8.0\CleanArchitecture.Persistence.sourcelink.json

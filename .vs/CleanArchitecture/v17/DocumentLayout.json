@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "D:\\.NetProjects\\CleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.persistence\\service\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\service\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.persistence\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FF8F5FB-D836-4D5A-B2ED-5F85F8B2AE8E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FF8F5FB-D836-4D5A-B2ED-5F85F8B2AE8E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.presentation\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.presentation\\abstraction\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\abstraction\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2396B916-51C7-4E0E-8A78-2F5774936C27}|CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.unittest\\carcontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2396B916-51C7-4E0E-8A78-2F5774936C27}|CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj|solutionrelative:cleanarchitecture.unittest\\carcontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +22,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Mappings\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Mappings\\MappingProfile.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Mappings\\MappingProfile.cs",
-              "RelativeToolTip": "CleanArchitecture.Persistence\\Mappings\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T10:58:35.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarService.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Service\\CarService.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Service\\CarService.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Service\\CarService.cs",
-              "RelativeToolTip": "CleanArchitecture.Persistence\\Service\\CarService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T10:20:26.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateCarCommandHandler.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T10:18:51.218Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Program.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.WebApi\\Program.cs",
-              "RelativeToolTip": "CleanArchitecture.WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T10:18:09.901Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "CreateCarCommandHandler.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:01:25.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CarsController.cs",
               "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
               "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
               "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T10:13:04.756Z",
+              "WhenOpened": "2024-06-23T14:50:35.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApiController.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Abstraction\\ApiController.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Abstraction\\ApiController.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Abstraction\\ApiController.cs",
-              "RelativeToolTip": "CleanArchitecture.Presentation\\Abstraction\\ApiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "DocumentIndex": 1,
+              "Title": "CarControllerUnitTest.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.UnitTest\\CarControllerUnitTest.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.UnitTest\\CarControllerUnitTest.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.UnitTest\\CarControllerUnitTest.cs",
+              "RelativeToolTip": "CleanArchitecture.UnitTest\\CarControllerUnitTest.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T10:10:56.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T14:49:12.345Z"
             }
           ]
         }

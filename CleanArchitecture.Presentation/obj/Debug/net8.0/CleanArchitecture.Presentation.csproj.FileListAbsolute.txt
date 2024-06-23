@@ -15,3 +15,4 @@ D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Application.pdb
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArc.3F3C2AE5.Up2Date
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.sourcelink.json

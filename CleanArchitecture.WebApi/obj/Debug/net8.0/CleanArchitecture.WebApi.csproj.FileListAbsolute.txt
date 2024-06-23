@@ -144,3 +144,8 @@ D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Medi
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\CleanArchitecture.Application.dll
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\FluentValidation.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\obj\Debug\net8.0\CleanArchitecture.WebApi.sourcelink.json
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll

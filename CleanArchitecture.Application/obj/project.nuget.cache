@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ty1+Upoj7HQ=",
+  "dgSpecHash": "1p3Tn4584bs=",
   "success": true,
   "projectFilePath": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\HUAWEİ\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"

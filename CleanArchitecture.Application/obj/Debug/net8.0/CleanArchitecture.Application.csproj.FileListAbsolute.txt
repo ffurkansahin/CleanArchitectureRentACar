@@ -13,3 +13,4 @@ D:\.NetProjects\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net8.0
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArc.03AFA812.Up2Date
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.sourcelink.json
