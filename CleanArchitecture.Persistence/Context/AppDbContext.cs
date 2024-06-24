@@ -1,4 +1,7 @@
 ﻿using CleanArchitecture.Domain.Abstraction;
+using CleanArchitecture.Domain.Entites;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,12 +11,20 @@ using System.Threading.Tasks;
 
 namespace CleanArchitecture.Persistence.Context;
 
-public sealed class AppDbContext : DbContext
+public sealed class AppDbContext : IdentityDbContext<AppUser,IdentityRole,string>
 {
     public AppDbContext(DbContextOptions options) : base(options) {}
 
-    protected override void OnModelCreating(ModelBuilder modelBuilder) =>
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(AssemblyReference).Assembly);
+        modelBuilder.Ignore<IdentityUserLogin<string>>();
+        modelBuilder.Ignore<IdentityUserRole<string>>();
+        modelBuilder.Ignore<IdentityUserClaim<string>>();
+        modelBuilder.Ignore<IdentityUserToken<string>>();
+        modelBuilder.Ignore<IdentityRole<string>>();
+    }
+        
 
     public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
     {

@@ -141,3 +141,16 @@ D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Cl
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\CleanArchitecture.Presentation.pdb
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\obj\Debug\net8.0\CleanArchitecture.UnitTest.sourcelink.json
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\GenericRepository.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\EntityFrameworkCorePagination.Nuget.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

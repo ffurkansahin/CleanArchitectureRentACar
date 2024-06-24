@@ -10,3 +10,4 @@ D:\.NetProjects\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\refi
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.pdb
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\ref\CleanArchitecture.Domain.dll
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.sourcelink.json
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache

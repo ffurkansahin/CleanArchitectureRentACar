@@ -1,15 +1,24 @@
 using CleanArchitecture.Application.Behaviors;
 using CleanArchitecture.Application.Services;
+using CleanArchitecture.Domain.Entites;
+using CleanArchitecture.Domain.Repositories;
 using CleanArchitecture.Persistence.Context;
+using CleanArchitecture.Persistence.Repositories;
 using CleanArchitecture.Persistence.Service;
 using CleanArchitecture.WebApi.Middleware;
 using FluentValidation;
+using GenericRepository;
 using MediatR;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddTransient<ErrorMiddleware>();
+
+builder.Services.AddScoped<IUnitOfWork,UnitOfWork<AppDbContext>>();
+builder.Services.AddScoped<ICarRepository,CarRepository>();
+builder.Services.AddScoped<IAuthService,AuthService>();
 
 builder.Services.AddControllers()
     .AddApplicationPart(typeof(CleanArchitecture.Presentation.AssemblyReference).Assembly);
@@ -19,6 +28,7 @@ string conString = builder.Configuration.GetConnectionString("SqlServer");
 builder.Services.AddScoped<ICarService, CarService>();
 
 builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(conString));
+builder.Services.AddIdentity<AppUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
 
 builder.Services.AddMediatR(cfr => 
 cfr.RegisterServicesFromAssembly(typeof

@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\.NetProjects\\CleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.presentation\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FF8F5FB-D836-4D5A-B2ED-5F85F8B2AE8E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF8F5FB-D836-4D5A-B2ED-5F85F8B2AE8E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2396B916-51C7-4E0E-8A78-2F5774936C27}|CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.unittest\\carcontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2396B916-51C7-4E0E-8A78-2F5774936C27}|CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj|solutionrelative:cleanarchitecture.unittest\\carcontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.application\\features\\authfeatures\\command\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\command\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.persistence\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.persistence\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.application\\features\\authfeatures\\command\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\command\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,40 +50,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateCarCommandHandler.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T15:01:25.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarsController.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
-              "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T14:50:35.329Z",
+              "WhenOpened": "2024-06-24T18:53:45.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarControllerUnitTest.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.UnitTest\\CarControllerUnitTest.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.UnitTest\\CarControllerUnitTest.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.UnitTest\\CarControllerUnitTest.cs",
-              "RelativeToolTip": "CleanArchitecture.UnitTest\\CarControllerUnitTest.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAkAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Program.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.WebApi\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T14:49:12.345Z"
+              "WhenOpened": "2024-06-24T18:52:10.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:48:23.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Service\\AuthService.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Service\\AuthService.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\Service\\AuthService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAtwB8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:47:38.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:46:55.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\Register\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\Register\\RegisterCommandHandler.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\Register\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\Register\\RegisterCommandHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIA9wBcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:45:31.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\Register\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\Register\\RegisterCommand.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\Register\\RegisterCommand.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\Register\\RegisterCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:44:27.691Z",
+              "EditorCaption": ""
             }
           ]
         }

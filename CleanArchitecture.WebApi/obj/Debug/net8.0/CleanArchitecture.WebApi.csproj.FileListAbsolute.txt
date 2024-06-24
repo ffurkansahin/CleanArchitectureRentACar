@@ -149,3 +149,11 @@ D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Flue
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\obj\Debug\net8.0\CleanArchitecture.WebApi.sourcelink.json
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\GenericRepository.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\EntityFrameworkCorePagination.Nuget.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
