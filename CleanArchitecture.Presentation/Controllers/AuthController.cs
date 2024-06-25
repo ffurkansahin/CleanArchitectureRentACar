@@ -1,7 +1,10 @@
-﻿using CleanArchitecture.Application.Features.AuthFeatures.Command.Register;
+﻿using CleanArchitecture.Application.Features.AuthFeatures.Command.CreateNewTokenByRefreshToken;
+using CleanArchitecture.Application.Features.AuthFeatures.Command.Login;
+using CleanArchitecture.Application.Features.AuthFeatures.Command.Register;
 using CleanArchitecture.Domain.Dtos;
 using CleanArchitecture.Presentation.Abstraction;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -16,10 +19,24 @@ namespace CleanArchitecture.Presentation.Controllers
         public AuthController(IMediator mediator) : base(mediator)
         {
         }
+        [AllowAnonymous]
         [HttpPost("[action]")]
         public async Task<IActionResult> Register(RegisterCommand request, CancellationToken cancellationToken)
         {
             MessageResponse response = await _mediator.Send(request, cancellationToken);
+            return Ok(response);
+        }
+        [AllowAnonymous]
+        [HttpPost("[action]")]
+        public async Task<IActionResult> Login(LoginCommand request, CancellationToken cancellationToken)
+        {
+            LoginCommandResponse response = await _mediator.Send(request, cancellationToken);
+            return Ok(response);
+        }
+        [HttpPost("[action]")]
+        public async Task<IActionResult> CreateTokenByRefreshToken(CreateNewTokenByRefreshTokenCommand request, CancellationToken cancellationToken)
+        {
+            LoginCommandResponse response = await _mediator.Send(request, cancellationToken);
             return Ok(response);
         }
     }

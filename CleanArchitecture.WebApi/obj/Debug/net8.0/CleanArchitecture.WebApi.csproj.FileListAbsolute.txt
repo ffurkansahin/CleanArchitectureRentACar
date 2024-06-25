@@ -157,3 +157,10 @@ D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Micr
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\GenericEmailService.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\MailKit.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\MimeKit.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
