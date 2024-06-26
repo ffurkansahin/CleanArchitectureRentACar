@@ -27,6 +27,9 @@ builder.Services.AddScoped<ICarRepository,CarRepository>();
 builder.Services.AddScoped<IAuthService,AuthService>();
 builder.Services.AddScoped<IMailService, MailService>();
 builder.Services.AddScoped<IJwtProvider, JwtProvider>();
+builder.Services.AddScoped<IRoleService, RoleService>();
+builder.Services.AddScoped<IUserRoleService, UserRoleService>();
+builder.Services.AddScoped<IUserRoleRepository, UserRoleRepository>();
 
 builder.Services.AddControllers()
     .AddApplicationPart(typeof(CleanArchitecture.Presentation.AssemblyReference).Assembly);
@@ -36,7 +39,7 @@ string conString = builder.Configuration.GetConnectionString("SqlServer");
 builder.Services.AddScoped<ICarService, CarService>();
 
 builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(conString));
-builder.Services.AddIdentity<AppUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
+builder.Services.AddIdentity<AppUser, Role>().AddEntityFrameworkStores<AppDbContext>();
 
 builder.Services.AddMediatR(cfr => 
 cfr.RegisterServicesFromAssembly(typeof

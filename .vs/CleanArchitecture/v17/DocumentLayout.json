@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "D:\\.NetProjects\\CleanArchitecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.presentation\\controllers\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.persistence\\repositories\\userrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\repositories\\userrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.persistence\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.persistence\\service\\userroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\service\\userroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AFC4ED-EC64-4762-A2AA-D616794F9AB6}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.domain\\repositories\\iuserrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AFC4ED-EC64-4762-A2AA-D616794F9AB6}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\repositories\\iuserrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.application\\features\\userrolefeature\\commands\\createuserrole\\createuserrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\userrolefeature\\commands\\createuserrole\\createuserrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.presentation\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FF8F5FB-D836-4D5A-B2ED-5F85F8B2AE8E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FF8F5FB-D836-4D5A-B2ED-5F85F8B2AE8E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FF8F5FB-D836-4D5A-B2ED-5F85F8B2AE8E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.webapi\\optionssetup\\jwtbeareroptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FF8F5FB-D836-4D5A-B2ED-5F85F8B2AE8E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\optionssetup\\jwtbeareroptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.application\\features\\userrolefeature\\commands\\createuserrole\\createuserrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\userrolefeature\\commands\\createuserrole\\createuserrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.application\\services\\iuserroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\iuserroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.presentation\\abstraction\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\abstraction\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.presentation\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A17FC6-1DD8-408B-8636-31CF8E37078B}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.application\\features\\authfeatures\\command\\createnewtokenbyrefreshtoken\\createnewtokenbyrefreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\command\\createnewtokenbyrefreshtoken\\createnewtokenbyrefreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.application\\features\\authfeatures\\command\\createnewtokenbyrefreshtoken\\createnewtokenbyrefreshtokencommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\command\\createnewtokenbyrefreshtoken\\createnewtokenbyrefreshtokencommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.application\\features\\authfeatures\\command\\createnewtokenbyrefreshtoken\\createnewtokenbyrefreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\command\\createnewtokenbyrefreshtoken\\createnewtokenbyrefreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.persistence\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18EF7397-30B4-4E50-BD8F-6123AFFDC15E}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.application\\features\\userrolefeature\\commands\\createuserrole\\createuserrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321B7D2C-DFBD-4429-9490-DA666FDEDCE2}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\userrolefeature\\commands\\createuserrole\\createuserrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,132 +66,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JwtBearerOptionsSetup.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.WebApi\\OptionsSetup\\JwtBearerOptionsSetup.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\OptionsSetup\\JwtBearerOptionsSetup.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.WebApi\\OptionsSetup\\JwtBearerOptionsSetup.cs",
-              "RelativeToolTip": "CleanArchitecture.WebApi\\OptionsSetup\\JwtBearerOptionsSetup.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T12:40:01.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApiController.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Abstraction\\ApiController.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Abstraction\\ApiController.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Abstraction\\ApiController.cs",
-              "RelativeToolTip": "CleanArchitecture.Presentation\\Abstraction\\ApiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T12:38:26.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CarsController.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
-              "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T12:33:18.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Program.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.WebApi\\Program.cs",
-              "RelativeToolTip": "CleanArchitecture.WebApi\\Program.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAcwDgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T12:32:28.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Repositories\\CarRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\Repositories\\CarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T11:16:48.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateNewTokenByRefreshTokenCommandHandler.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandHandler.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandHandler.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandHandler.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandHandler.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAzwBcAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T11:16:10.537Z",
+              "WhenOpened": "2024-06-26T07:50:21.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CreateNewTokenByRefreshTokenCommandValidator.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandValidator.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandValidator.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandValidator.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T11:16:09.969Z",
+              "WhenOpened": "2024-06-26T07:40:55.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRoleController.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\UserRoleController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\UserRoleController.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\UserRoleController.cs",
+              "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\UserRoleController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:40:17.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CreateNewTokenByRefreshTokenCommand.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommand.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommand.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommand.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Command\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Program.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.WebApi\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T11:16:07.214Z",
+              "WhenOpened": "2024-06-26T07:39:34.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUserRoleCommandValidator.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\UserRoleFeature\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\UserRoleFeature\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\UserRoleFeature\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\UserRoleFeature\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:36:49.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRoleRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Repositories\\UserRoleRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Repositories\\UserRoleRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Repositories\\UserRoleRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\Repositories\\UserRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:32:24.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRoleRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Domain\\Repositories\\IUserRoleRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Repositories\\IUserRoleRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Domain\\Repositories\\IUserRoleRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Repositories\\IUserRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:31:40.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRoleService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Service\\UserRoleService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Service\\UserRoleService.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Service\\UserRoleService.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\Service\\UserRoleService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:31:16.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Services\\IAuthService.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\IAuthService.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Services\\IAuthService.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Services\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Title": "IUserRoleService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Services\\IUserRoleService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\IUserRoleService.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Services\\IUserRoleService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\IUserRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T11:13:06.076Z",
+              "WhenOpened": "2024-06-26T07:30:35.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Service\\AuthService.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Service\\AuthService.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Persistence\\Service\\AuthService.cs",
-              "RelativeToolTip": "CleanArchitecture.Persistence\\Service\\AuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAuAAAA",
+              "Title": "CreateUserRoleCommandHandler.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\UserRoleFeature\\Commands\\CreateUserRole\\CreateUserRoleCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\UserRoleFeature\\Commands\\CreateUserRole\\CreateUserRoleCommandHandler.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\UserRoleFeature\\Commands\\CreateUserRole\\CreateUserRoleCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\UserRoleFeature\\Commands\\CreateUserRole\\CreateUserRoleCommandHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T11:13:02.874Z",
+              "WhenOpened": "2024-06-26T07:27:48.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserRoleCommand.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\UserRoleFeature\\Commands\\CreateUserRole\\CreateUserRoleCommand.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\UserRoleFeature\\Commands\\CreateUserRole\\CreateUserRoleCommand.cs",
+              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\Features\\UserRoleFeature\\Commands\\CreateUserRole\\CreateUserRoleCommand.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\UserRoleFeature\\Commands\\CreateUserRole\\CreateUserRoleCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:27:39.092Z",
               "EditorCaption": ""
             }
           ]

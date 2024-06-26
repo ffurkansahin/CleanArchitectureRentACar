@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace CleanArchitecture.Persistence.Context;
 
-public sealed class AppDbContext : IdentityDbContext<AppUser,IdentityRole,string>
+public sealed class AppDbContext : IdentityDbContext<AppUser,Role,string>
 {
     public AppDbContext(DbContextOptions options) : base(options) {}
 
