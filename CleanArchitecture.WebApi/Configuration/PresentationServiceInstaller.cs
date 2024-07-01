@@ -6,7 +6,7 @@ namespace CleanArchitecture.WebApi.Configuration
 {
     public class PresentationServiceInstaller : IServiceInstaller
     {
-        public void Install(IServiceCollection services, IConfiguration configuration)
+        public void Install(IServiceCollection services, IConfiguration configuration, IHostBuilder hostBuilder)
         {
             services.AddControllers()
     .AddApplicationPart(typeof(CleanArchitecture.Presentation.AssemblyReference).Assembly);
@@ -47,6 +47,8 @@ namespace CleanArchitecture.WebApi.Configuration
                     { jwtSecuritySheme, Array.Empty<string>() }
                 });
             });
+
+
         }
     }
 }

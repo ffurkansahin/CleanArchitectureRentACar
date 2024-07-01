@@ -1,0 +1,20 @@
+2024-07-01 11:30:14.551 +03:00 [INF] User profile is available. Using 'C:\Users\HUAWEİ\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-01 11:30:14.678 +03:00 [INF] Now listening on: https://localhost:7298
+2024-07-01 11:30:14.679 +03:00 [INF] Now listening on: http://localhost:5289
+2024-07-01 11:30:14.680 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-01 11:30:14.680 +03:00 [INF] Hosting environment: Development
+2024-07-01 11:30:14.681 +03:00 [INF] Content root path: D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi
+2024-07-01 11:30:16.843 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7298/swagger/index.html - null null
+2024-07-01 11:30:16.994 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7298/swagger/index.html - 200 null text/html;charset=utf-8 156.5247ms
+2024-07-01 11:30:17.082 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7298/_vs/browserLink - null null
+2024-07-01 11:30:17.082 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7298/swagger/swagger-ui.css - null null
+2024-07-01 11:30:17.082 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7298/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-01 11:30:17.098 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7298/_framework/aspnetcore-browser-refresh.js - 200 13784 application/javascript; charset=utf-8 16.5748ms
+2024-07-01 11:30:17.102 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-07-01 11:30:17.103 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7298/swagger/swagger-ui.css - 499 143943 text/css 21.5279ms
+2024-07-01 11:30:17.127 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7298/_vs/browserLink - 200 null text/javascript; charset=UTF-8 44.94ms
+2024-07-01 11:30:17.273 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7298/swagger/favicon-32x32.png - null null
+2024-07-01 11:30:17.278 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-07-01 11:30:17.279 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7298/swagger/favicon-32x32.png - 200 628 image/png 5.6855ms
+2024-07-01 11:30:17.311 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7298/swagger/v1/swagger.json - null null
+2024-07-01 11:30:17.359 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7298/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 48.5034ms

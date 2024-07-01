@@ -4,7 +4,7 @@ namespace CleanArchitecture.WebApi.Configuration
 {
     public static class DependencyInjection
     {
-        public static IServiceCollection InstallServices(this IServiceCollection services, IConfiguration configuration, params Assembly[] assemblies)
+        public static IServiceCollection InstallServices(this IServiceCollection services, IConfiguration configuration,IHostBuilder hostBuilder, params Assembly[] assemblies)
         {
             IEnumerable<IServiceInstaller> serviceInstallers = assemblies
                 .SelectMany(i=>i.DefinedTypes)
@@ -13,7 +13,7 @@ namespace CleanArchitecture.WebApi.Configuration
                 .Cast<IServiceInstaller>();
             foreach(IServiceInstaller service in serviceInstallers)
             {
-                service.Install(services, configuration);
+                service.Install(services, configuration,hostBuilder);
             }  
             return services;
 

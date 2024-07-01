@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\.NetProjects\\CleanArchitecture\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{6FF8F5FB-D836-4D5A-B2ED-5F85F8B2AE8E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|d:\\.netprojects\\cleanarchitecture\\cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FF8F5FB-D836-4D5A-B2ED-5F85F8B2AE8E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,22 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Program.cs",
-              "ToolTip": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.WebApi\\Program.cs",
-              "RelativeToolTip": "CleanArchitecture.WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T07:45:01.192Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"

@@ -164,3 +164,14 @@ D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Mime
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
 D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Sinks.MSSqlServer.dll
+D:\.NetProjects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Sinks.PeriodicBatching.dll
