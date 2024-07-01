@@ -1282,6 +1282,7 @@
       "CleanArchitecture.Presentation/1.0.0": {
         "dependencies": {
           "CleanArchitecture.Application": "1.0.0",
+          "CleanArchitecture.Infrastructure": "1.0.0",
           "EntityFrameworkCore.GenericRepository.Nuget": "1.0.2",
           "EntityFrameworkCore.Pagination": "7.0.5",
           "MediatR": "12.3.0",

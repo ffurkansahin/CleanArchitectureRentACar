@@ -380,6 +380,9 @@
             "projectReferences": {
               "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
                 "projectPath": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              },
+              "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
+                "projectPath": "D:\\.NetProjects\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj"
               }
             }
           }
